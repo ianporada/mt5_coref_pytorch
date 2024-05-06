@@ -1,6 +1,6 @@
 # mt5_coref_pytorch
 
-**Update: This is a minimal example using code based on the released notebook. You can find an example of how to run inference on an entire dataset using our reimplementation here: [ianporada/coref-reeval/models/LinkAppend](https://github.com/ianporada/coref-reeval/tree/main/models/LinkAppend).**
+**Update: This is a minimal example using code based on the released notebook. You can find an example of how to run inference on an entire dataset using our reimplementation here: [ianporada/coref-reeval/](https://github.com/ianporada/coref-reeval/).**
 
 ## About 
 
